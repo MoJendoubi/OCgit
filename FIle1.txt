@@ -1,1 +1,2 @@
 le fichier contient la documentation du projet
+Etape 1: decrire le besoin
